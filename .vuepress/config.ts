@@ -30,7 +30,7 @@ export default defineUserConfig({
       { text: "关于", link: "md/about/about-me.md" },
     ],
     lastUpdated: true,
-    contributors: true,
+    contributors: false,
 
     // 侧边栏
     sidebar: {
