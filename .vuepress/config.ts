@@ -6,7 +6,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   // 添加标题和描述 borrow from https://pdai.tech/md/about/blog/blog-build-vuepress.html
-  base: '/adaxun-doc/',
+  base: '/',
   locales: {
     "/": {
       lang: "zh-CN",
